@@ -1,6 +1,6 @@
 # code the #greeting method here!
-def greeting(name= Sally)
+def greeting(name= Anne)
   puts "Hello #{name.strip}. It's nice to meet you."
 end
 
-greeting("Sally")
+greeting("Anne")
